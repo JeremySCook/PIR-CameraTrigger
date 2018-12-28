@@ -1,2 +1,4 @@
 # PIR-CameraTrigger
-Assembly for PIR camera trigger - labled as JSCook-CT0 on the back, so hopefully someone can find it if needed.
+Assembly for PIR camera trigger.
+
+More info on the setup: https://www.youtube.com/watch?v=DPrml8UXMjY
